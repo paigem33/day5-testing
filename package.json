@@ -1,0 +1,11 @@
+{
+  "name": "day5-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/paigem33/day5-testing.git",
+  "author": "Dimitriedd <dimitricollas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
